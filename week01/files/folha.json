@@ -1,0 +1,18 @@
+[
+    {
+        "name" : "Gessica Soares",
+        "idade" : 20,
+        "peso" : 10.11,
+        "cidade" : "Huambo"
+    },
+    {
+        "name" : "Justino Soares",
+        "idade" : 17,
+        "peso" : 15.1,
+        "cidade" : "Luanda"
+    },
+    {
+        "name" : "Gessi Cambole",
+        "peso" : 13.1
+    }
+]
