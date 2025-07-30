@@ -3,16 +3,20 @@
         "name" : "Gessica Soares",
         "idade" : 20,
         "peso" : 10.11,
-        "cidade" : "Huambo"
+        "cidade" : "Huambo",
+        "object" : "telefone"
     },
     {
         "name" : "Justino Soares",
         "idade" : 17,
         "peso" : 15.1,
-        "cidade" : "Luanda"
+        "cidade" : "Luanda",
+        "object" : "lata"
     },
     {
         "name" : "Gessi Cambole",
-        "peso" : 13.1
+        "peso" : 13.1,
+        "cidade" : "Luanda",
+         "object" : "Carro"
     }
 ]
