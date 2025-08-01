@@ -39,3 +39,18 @@ Posso montar um plano completo com:
  Comparação com SQL ou Excel (se quiser)
 
  Pandas + NumPy combinados
+
+
+ matplotlib
+ | Função              | O que faz                                |
+| ------------------- | ---------------------------------------- |
+| `plt.plot(x, y)`    | Cria um gráfico de linhas                |
+| `plt.bar(x, y)`     | Cria um gráfico de barras                |
+| `plt.scatter(x, y)` | Cria um gráfico de dispersão (pontos)    |
+| `plt.hist(dados)`   | Cria um histograma                       |
+| `plt.title()`       | Adiciona um título ao gráfico            |
+| `plt.xlabel()`      | Adiciona o nome ao eixo X                |
+| `plt.ylabel()`      | Adiciona o nome ao eixo Y                |
+| `plt.grid(True)`    | Mostra a grade do gráfico                |
+| `plt.show()`        | Exibe o gráfico na tela                  |
+| `plt.subplot()`     | Cria vários gráficos em uma mesma figura |
