@@ -14,7 +14,7 @@ try :
     plt.title("Quadrado")
 
     plt.subplot(1, 2, 2)  # posição 2
-    plt.plot(x, y2)
+    plt.bar(x, y2)
     plt.title("Multiplicado por 2")
 
     plt.tight_layout()  # evita sobreposição
